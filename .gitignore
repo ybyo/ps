@@ -1,0 +1,9 @@
+.vscode
+.idea
+
+debug
+/leetcode/
+
+cmake-build-debug
+CMakeLists.txt
+*.exe
