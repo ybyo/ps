@@ -2,6 +2,8 @@
 
 List of algorithm problems with explanation links.
 
+Mainly solve problems on Leetcode with C++.
+
 == Leetcode
 
 |===
