@@ -1,0 +1,148 @@
+= Problem Solving
+
+List of algorithm problems with explanation links.
+
+== Leetcode
+
+|===
+|# |Title |Solution |Difficulty |Helpful Links
+
+|0001
+|link:https://leetcode.com/problems/two-sum/submissions/[Two Sum]
+|link:src/leetcode/0001-two-sum/0001-two-sum.cpp[cpp]
+|Easy
+|-
+
+|0009
+|link:https://leetcode.com/problems/palindrome-number/[Palindrome Number]
+|link:src/leetcode/0009-palindrome-number/0009-palindrome-number-1.cpp[cpp],
+link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp],
+link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
+|Easy
+|-
+
+|0013
+|link:https://leetcode.com/problems/roman-to-integer/[Roman to Integer]
+|link:src/leetcode/0013-roman-to-integer/0013-roman-to-integer.cpp[cpp]
+|Easy
+|-
+
+|0014
+|link:https://leetcode.com/problems/longest-common-prefix/[Longest Common Prefix]
+|link:src/leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp[cpp]
+|Easy
+|-
+
+|0029
+|link:https://leetcode.com/problems/divide-two-integers/[Divide Two Integers]
+|link:src/leetcode/0029-divide-two-integers/0029-divide-two-integers.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/divide-two-integers/discuss/1516367/Complete-Thinking-Process-or-Intuitive-Explanation-or-All-rules-followed-or-C%2B%2B-code[text]
+
+|0032
+|link:https://leetcode.com/problems/longest-valid-parentheses/[Longest Valid Parentheses]
+|link:src/leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp[cpp]
+|Hard
+|-
+
+|0051
+|link:https://leetcode.com/problems/n-queens/[N-Queens]
+|link:src/leetcode/0051-n-queens/0051-n-queens.cpp[cpp]
+|Hard
+|-
+
+|0052
+|link:https://leetcode.com/problems/n-queens-ii/[N-Queens II]
+|link:src/leetcode/0052-n-queens-ii/0052-n-queens-ii.cpp[cpp]
+|Hard
+|-
+
+|0088
+|link:https://leetcode.com/problems/merge-sorted-array/[Merge Sorted Array]
+|link:src/leetcode/0088-merge-sorted-array/0088-merge-sorted-array.cpp[cpp]
+|Easy
+|-
+
+|0160
+|link:https://leetcode.com/problems/intersection-of-two-linked-lists/[Intersection of Two Linked Lists]
+|link:src/leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists-1.cpp[cpp], link:src/leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists-2.cpp[cpp]
+|Easy
+|-
+
+|0167
+|link:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/[Two Sum II - Input Array Is Sorted]
+|link:src/leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp[cpp]
+|Medium
+|-
+
+//- TODO: add xor approach
+|0268
+|link:https://leetcode.com/problems/missing-number/[Missing Number]
+|link:src/leetcode/0268-missing-number/0268-missing-number.cpp[cpp]
+|Easy
+|link:https://florian.github.io/xor-trick/[text]
+
+|0304
+|link:https://leetcode.com/problems/range-sum-query-2d-immutable/[Range Sum Query 2D - Immutable]
+|link:src/leetcode/0304-range-sum-query-2d-immutable/0304-range-sum-query-2d-immutable.cpp[cpp]
+|Medium
+|
+
+//- TODO: add bitmask approach
+|0318
+|link:https://leetcode.com/problems/maximum-product-of-word-lengths/[Maximum Product of Word Lengths]v
+|link:src/leetcode/0318-maximum-product-of-word-lengths/0318-maximum-product-of-word-lengths-hash.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/1233648/Short-and-Easy-Solution-w-Explanation-or-C%2B%2B-using-Bitset-and-Bit-masking-or-Beats-100[text]
+
+|0474
+|link:https://leetcode.com/problems/ones-and-zeroes/[Ones and Zeroes]
+|link:src/leetcode/0474-ones-and-zeroes/0474-ones-and-zeroes.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/ones-and-zeroes/discuss/2065992/C%2B%2Bor-Detailed-Explanation-w-Recursion-greater-Memoziation-or-Examples-and-well-Commentedor[text],
+link:https://leetcode.com/problems/ones-and-zeroes/discuss/1138589/Short-and-Easy-w-Explanation-or-O(L*m*n)-DP-solution-(6-lines)-similar-to-knapsack[text]
+
+|0647
+|link:https://leetcode.com/problems/palindromic-substrings/[Palindromic Substrings]
+|link:src/leetcode/0647-palindromic-substrings/0647-palindromic-substrings.cpp[cpp]
+|Medium
+|link:https://youtu.be/EIf9zFqufbU[video],
+link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2B-solution-with-comments[text]
+
+|0867
+|link:https://leetcode.com/problems/transpose-matrix/[Transpose Matrix]
+|link:src/leetcode/0867-transpose-matrix/0867-transpose-matrix.cpp[cpp]
+|Easy
+|-
+
+|1332
+|link:https://leetcode.com/problems/remove-palindromic-subsequences/[Remove Palindromic Subsequences]
+|link:src/leetcode/1332-remove-palindromic-subsequences/1332-remove-palindromic-subsequences.cpp[cpp]
+|Easy
+|-
+
+|1342
+|link:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/[Number of Steps to Reduce a Number to Zero]
+|link:src/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp[cpp]
+|Easy
+|-
+
+|1461
+|link:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/[Check If a String Contains All Binary Codes of Size K]
+|link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-set.cpp[cpp],
+link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-hash.cpp[cpp]
+|Medium
+|-
+
+|1480
+|link:https://leetcode.com/problems/running-sum-of-1d-array/submissions/[Running Sum of 1d Array]
+|link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp[cpp]
+|Easy
+|-
+
+|1941
+|link:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/[Check if All Characters Have Equal Number of Occurrences]
+|link:src/leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.cpp[cpp]
+\|Easy
+|-
+|===
