@@ -25,23 +25,26 @@ module.exports = {
       },
     ],
   
-    /*
-    scopes: [{ name: '' }],
-    */
+    
+    scopes: [{ name: 'leetcode' }],
+    
   
     allowTicketNumber: false,
     isTicketNumberRequired: false,
     ticketNumberPrefix: 'TICKET-',
     ticketNumberRegExp: '\\d{1,5}',
-  
+
     // it needs to match the value for field type. Eg.: 'fix'
-    
+    /*
     scopeOverrides: {
-      sol: [
-        {name: 'leetcode'}
+      fix: [
+        {name: 'merge'},
+        {name: 'style'},
+        {name: 'e2eTest'},
+        {name: 'unitTest'}
       ]
     },
-    
+    */
     // override the messages, defaults are as follows
     messages: {
       type: "Select the type of change that you're committing:",
