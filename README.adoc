@@ -88,7 +88,7 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |link:https://leetcode.com/problems/range-sum-query-2d-immutable/[Range Sum Query 2D - Immutable]
 |link:src/leetcode/0304-range-sum-query-2d-immutable/0304-range-sum-query-2d-immutable.cpp[cpp]
 |Medium
-|
+|-
 
 //- TODO: add bitmask approach
 |0318
@@ -145,6 +145,6 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |1941
 |link:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/[Check if All Characters Have Equal Number of Occurrences]
 |link:src/leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.cpp[cpp]
-\|Easy
+|Easy
 |-
 |===
