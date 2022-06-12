@@ -156,7 +156,8 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 
 |1695
 |link:https://leetcode.com/problems/maximum-erasure-value/[Maximum Erasure Value]
-|link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-1.cpp[cpp]
+|link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-1.cpp[cpp],
+link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-2.cpp[cpp]
 |Medium
 |-
 
