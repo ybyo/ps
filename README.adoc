@@ -71,6 +71,12 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Easy
 |-
 
+|0120
+|link:https://leetcode.com/problems/triangle/[Triangle]
+|link:src/leetcode/0120-triangle/0120-triangle.cpp[cpp]
+|Medium
+|-
+
 |0160
 |link:https://leetcode.com/problems/intersection-of-two-linked-lists/[Intersection of Two Linked Lists]
 |link:src/leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists-1.cpp[cpp], link:src/leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists-2.cpp[cpp]
