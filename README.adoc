@@ -2,7 +2,7 @@
 
 List of algorithm problems with explanation links.
 
-Mainly solve problems on Leetcode with C++.
+Mainly solve problems on Leetcode with C++, Python3.
 
 == Leetcode
 
