@@ -41,6 +41,12 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Easy
 |-
 
+|0020
+|link:https://leetcode.com/problems/valid-parentheses/[Valid Parentheses]
+|link:src/leetcode/0020-valid-parentheses/0020-valid-parentheses.py[py]
+|Easy
+|-
+
 |0029
 |link:https://leetcode.com/problems/divide-two-integers/[Divide Two Integers]
 |link:src/leetcode/0029-divide-two-integers/0029-divide-two-integers.cpp[cpp]
@@ -115,6 +121,13 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |link:https://leetcode.com/problems/ones-and-zeroes/discuss/2065992/C%2B%2Bor-Detailed-Explanation-w-Recursion-greater-Memoziation-or-Examples-and-well-Commentedor[text],
 link:https://leetcode.com/problems/ones-and-zeroes/discuss/1138589/Short-and-Easy-w-Explanation-or-O(L*m*n)-DP-solution-(6-lines)-similar-to-knapsack[text]
+
+//- TODO: add DP without LCS approach
+|0583
+|link:https://leetcode.com/problems/delete-operation-for-two-strings/[Delete Operation for Two Strings]
+|link:src/leetcode/0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/delete-operation-for-two-strings/solution/[leetcode]
 
 |0647
 |link:https://leetcode.com/problems/palindromic-substrings/[Palindromic Substrings]
