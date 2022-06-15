@@ -142,6 +142,13 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Easy
 |-
 
+//- TODO: add DFS approach
+|1048
+|link:https://leetcode.com/problems/longest-string-chain/[Longest String Chain]
+|link:src/leetcode/1048-longest-string-chain/1048-longest-string-chain.cpp[cpp]
+|Medium
+|-
+
 |1332
 |link:https://leetcode.com/problems/remove-palindromic-subsequences/[Remove Palindromic Subsequences]
 |link:src/leetcode/1332-remove-palindromic-subsequences/1332-remove-palindromic-subsequences.cpp[cpp]
