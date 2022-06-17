@@ -148,6 +148,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Easy
 |-
 
+|0968
+|link:https://leetcode.com/problems/binary-tree-cameras/[968. Binary Tree Cameras]
+|link:src/leetcode/0968-binary-tree-cameras/0968-binary-tree-cameras.cpp[cpp]
+|Hard
+|-
+
 //- TODO: add DFS approach
 |1048
 |link:https://leetcode.com/problems/longest-string-chain/[Longest String Chain]
