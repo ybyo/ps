@@ -148,6 +148,12 @@ link:https://leetcode.com/problems/ones-and-zeroes/discuss/1138589/Short-and-Eas
 |link:https://youtu.be/EIf9zFqufbU[video],
 link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2B-solution-with-comments[text]
 
+|0745
+|link:https://leetcode.com/problems/prefix-and-suffix-search/[Prefix and Suffix Search]
+|link:src/leetcode/0745-prefix-and-suffix-search/0745-prefix-and-suffix-search.cpp[cpp]
+|Hard
+|-
+
 |0867
 |link:https://leetcode.com/problems/transpose-matrix/[Transpose Matrix]
 |link:src/leetcode/0867-transpose-matrix/0867-transpose-matrix.cpp[cpp]
