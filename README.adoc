@@ -71,6 +71,12 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Hard
 |-
 
+|0035
+|link:https://leetcode.com/problems/search-insert-position/[Search Insert Position]
+|link:src/leetcode/0035-search-insert-position/0035-search-insert-position.py[py]
+|Hard
+|-
+
 |0051
 |link:https://leetcode.com/problems/n-queens/[N-Queens]
 |link:src/leetcode/0051-n-queens/0051-n-queens.cpp[cpp]
