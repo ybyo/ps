@@ -116,7 +116,7 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 
 //- TODO: add bitmask approach
 |0318
-|link:https://leetcode.com/problems/maximum-product-of-word-lengths/[Maximum Product of Word Lengths]v
+|link:https://leetcode.com/problems/maximum-product-of-word-lengths/[Maximum Product of Word Lengths]
 |link:src/leetcode/0318-maximum-product-of-word-lengths/0318-maximum-product-of-word-lengths-hash.cpp[cpp]
 |Medium
 |link:https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/1233648/Short-and-Easy-Solution-w-Explanation-or-C%2B%2B-using-Bitset-and-Bit-masking-or-Beats-100[text]
