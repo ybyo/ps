@@ -53,6 +53,12 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Easy
 |-
 
+|0021
+|link:https://leetcode.com/problems/merge-two-sorted-lists/[Merge Two Sorted Lists]
+|link:src/leetcode/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py[py]
+|Easy
+|-
+
 |0029
 |link:https://leetcode.com/problems/divide-two-integers/[Divide Two Integers]
 |link:src/leetcode/0029-divide-two-integers/0029-divide-two-integers.cpp[cpp]
