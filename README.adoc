@@ -179,6 +179,13 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Medium
 |-
 
+//- TODO: add Trie + DFS approach
+|1268
+|link:https://leetcode.com/problems/search-suggestions-system/submissions/[Search Suggestions System]
+|link:src/leetcode/1268-search-suggestions-system/1268-search-suggestions-system.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/search-suggestions-system/solution/[leetcode]
+
 |1332
 |link:https://leetcode.com/problems/remove-palindromic-subsequences/[Remove Palindromic Subsequences]
 |link:src/leetcode/1332-remove-palindromic-subsequences/1332-remove-palindromic-subsequences.cpp[cpp]
