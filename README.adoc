@@ -166,6 +166,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Hard
 |-
 
+|0820
+|link:https://leetcode.com/problems/short-encoding-of-words/[Short Encoding of Words]
+|link:src/leetcode/0820-short-encoding-of-words/0820-short-encoding-of-words.cpp[cpp]
+|Medium
+|-
+
 |0867
 |link:https://leetcode.com/problems/transpose-matrix/[Transpose Matrix]
 |link:src/leetcode/0867-transpose-matrix/0867-transpose-matrix.cpp[cpp]
