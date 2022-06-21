@@ -24,7 +24,7 @@ public:
     }
 
     void clear(TrieNode *root) {
-        for (int i = 0; i < 26; ++i) {
+        for (int i = 0; i < 26; i++) {
             if (root->children[i]) {
                 clear(root->children[i]);
             }
@@ -34,7 +34,7 @@ public:
 
     void insert(string word) {
         TrieNode *dummy = root;
-        for (char &c: word) {
+        for (char c: word) {
             if (!dummy->children[c - 'a']) {
                 dummy->children[c - 'a'] = new TrieNode();
             }
@@ -45,7 +45,7 @@ public:
 
     bool search(string word) {
         TrieNode *dummy = root;
-        for (char &c: word) {
+        for (char c: word) {
             if (!dummy->children[c - 'a']) {
                 return false;
             }
@@ -56,7 +56,7 @@ public:
 
     bool startsWith(string prefix) {
         TrieNode *dummy = root;
-        for (char &c: prefix) {
+        for (char c: prefix) {
             if (!dummy->children[c - 'a']) {
                 return false;
             }
