@@ -218,7 +218,7 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |-
 
 |1480
-|link:https://leetcode.com/problems/running-sum-of-1d-array/submissions/[Running Sum of 1d Array]
+|link:https://leetcode.com/problems/running-sum-of-1d-array/[Running Sum of 1d Array]
 |link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp[cpp]
 |Easy
 |-
