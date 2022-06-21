@@ -10,7 +10,7 @@ Mainly solve problems on Leetcode with C++, Python3.
 |# |Title |Solution |Difficulty |Helpful Links
 
 |0001
-|link:https://leetcode.com/problems/two-sum/submissions/[Two Sum]
+|link:https://leetcode.com/problems/two-sum/[Two Sum]
 |link:src/leetcode/0001-two-sum/0001-two-sum.cpp[cpp]
 |Easy
 |-
