@@ -119,6 +119,14 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |-
 
+|0215
+|link:https://leetcode.com/problems/kth-largest-element-in-an-array/[Kth Largest Element in an Array]
+|link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array-1.cpp[cpp],
+link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array-2.cpp[cpp]
+|Medium
+|-
+
+
 //- TODO: add xor approach
 |0268
 |link:https://leetcode.com/problems/missing-number/[Missing Number]
