@@ -114,7 +114,7 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |-
 
 |0208
-|link:https://leetcode.com/problems/implement-trie-prefix-tree/[208. Implement Trie (Prefix Tree)]
+|link:https://leetcode.com/problems/implement-trie-prefix-tree/[Implement Trie (Prefix Tree)]
 |link:src/leetcode/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp[cpp]
 |Medium
 |-
