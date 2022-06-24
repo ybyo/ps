@@ -113,6 +113,20 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |-
 
+|0208
+|link:https://leetcode.com/problems/implement-trie-prefix-tree/[208. Implement Trie (Prefix Tree)]
+|link:src/leetcode/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp[cpp]
+|Medium
+|-
+
+|0215
+|link:https://leetcode.com/problems/kth-largest-element-in-an-array/[Kth Largest Element in an Array]
+|link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array-1.cpp[cpp],
+link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array-2.cpp[cpp]
+|Medium
+|-
+
+
 //- TODO: add xor approach
 |0268
 |link:https://leetcode.com/problems/missing-number/[Missing Number]
@@ -158,6 +172,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |link:https://leetcode.com/problems/prefix-and-suffix-search/[Prefix and Suffix Search]
 |link:src/leetcode/0745-prefix-and-suffix-search/0745-prefix-and-suffix-search.cpp[cpp]
 |Hard
+|-
+
+|0820
+|link:https://leetcode.com/problems/short-encoding-of-words/[Short Encoding of Words]
+|link:src/leetcode/0820-short-encoding-of-words/0820-short-encoding-of-words.cpp[cpp]
+|Medium
 |-
 
 |0867
@@ -209,6 +229,12 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |link:https://leetcode.com/problems/running-sum-of-1d-array/submissions/[Running Sum of 1d Array]
 |link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp[cpp]
 |Easy
+|-
+
+|1642
+|link:https://leetcode.com/problems/furthest-building-you-can-reach/[Furthest Building You Can Reach]
+|link:src/leetcode/1642-furthest-building-you-can-reach/1642-furthest-building-you-can-reach.cpp[cpp]
+|Medium
 |-
 
 |1658
