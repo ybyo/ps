@@ -10,7 +10,7 @@ Mainly solve problems on Leetcode with C++, Python3.
 |# |Title |Solution |Difficulty |Helpful Links
 
 |0001
-|link:https://leetcode.com/problems/two-sum/submissions/[Two Sum]
+|link:https://leetcode.com/problems/two-sum/[Two Sum]
 |link:src/leetcode/0001-two-sum/0001-two-sum.cpp[cpp]
 |Easy
 |-
@@ -114,7 +114,7 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |-
 
 |0208
-|link:https://leetcode.com/problems/implement-trie-prefix-tree/[208. Implement Trie (Prefix Tree)]
+|link:https://leetcode.com/problems/implement-trie-prefix-tree/[Implement Trie (Prefix Tree)]
 |link:src/leetcode/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp[cpp]
 |Medium
 |-
@@ -226,7 +226,7 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |-
 
 |1480
-|link:https://leetcode.com/problems/running-sum-of-1d-array/submissions/[Running Sum of 1d Array]
+|link:https://leetcode.com/problems/running-sum-of-1d-array/[Running Sum of 1d Array]
 |link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp[cpp]
 |Easy
 |-
