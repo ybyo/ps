@@ -180,6 +180,13 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Medium
 |-
 
+|0724
+|link:https://leetcode.com/problems/find-pivot-index/[Find Pivot Index]
+|link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-1.py[py],
+link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
+|Easy
+|link:https://leetcode.com/problems/find-pivot-index/solution/[leetcode]
+
 |0745
 |link:https://leetcode.com/problems/prefix-and-suffix-search/[Prefix and Suffix Search]
 |link:src/leetcode/0745-prefix-and-suffix-search/0745-prefix-and-suffix-search.cpp[cpp]
