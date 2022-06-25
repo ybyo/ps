@@ -161,12 +161,24 @@ link:https://leetcode.com/problems/ones-and-zeroes/discuss/1138589/Short-and-Eas
 |Medium
 |link:https://leetcode.com/problems/delete-operation-for-two-strings/solution/[leetcode]
 
+|0630
+|link:https://leetcode.com/problems/course-schedule-iii/[Course Schedule III]
+|link:src/leetcode/0630-course-schedule-iii/0630-course-schedule-iii.cpp[cpp]
+|Hard
+|-
+
 |0647
 |link:https://leetcode.com/problems/palindromic-substrings/[Palindromic Substrings]
 |link:src/leetcode/0647-palindromic-substrings/0647-palindromic-substrings.cpp[cpp]
 |Medium
 |link:https://youtu.be/EIf9zFqufbU[video],
 link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2B-solution-with-comments[text]
+
+|0665
+|link:https://leetcode.com/problems/non-decreasing-array/[Non-decreasing Array]
+|link:src/leetcode/0665-non-decreasing-array/0665-non-decreasing-array.cpp[cpp]
+|Medium
+|-
 
 |0745
 |link:https://leetcode.com/problems/prefix-and-suffix-search/[Prefix and Suffix Search]
@@ -216,6 +228,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |link:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/[Number of Steps to Reduce a Number to Zero]
 |link:src/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp[cpp]
 |Easy
+|-
+
+|1354
+|link:https://leetcode.com/problems/construct-target-array-with-multiple-sums/[Construct Target Array With Multiple Sums]
+|link:src/leetcode/1354-construct-target-array-with-multiple-sums/1354-construct-target-array-with-multiple-sums.cpp[cpp]
+|Hard
 |-
 
 |1461
