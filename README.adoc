@@ -230,6 +230,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Easy
 |-
 
+|1354
+|link:https://leetcode.com/problems/construct-target-array-with-multiple-sums/[Construct Target Array With Multiple Sums]
+|link:src/leetcode/1354-construct-target-array-with-multiple-sums/1354-construct-target-array-with-multiple-sums.cpp[cpp]
+|Hard
+|-
+
 |1461
 |link:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/[Check If a String Contains All Binary Codes of Size K]
 |link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-set.cpp[cpp],
