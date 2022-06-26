@@ -243,6 +243,12 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 |Hard
 |-
 
+|1423
+|link:https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/[Maximum Points You Can Obtain from Cards]
+|link:src/leetcode/1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.cpp[cpp]
+|Medium
+|-
+
 |1461
 |link:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/[Check If a String Contains All Binary Codes of Size K]
 |link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-set.cpp[cpp],
