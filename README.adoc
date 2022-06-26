@@ -113,6 +113,14 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |-
 
+
+|0205
+|link:https://leetcode.com/problems/isomorphic-strings/[Isomorphic Strings]
+|link:src/leetcode/0205-isomorphic-strings/0205-isomorphic-strings-1.py[py],
+link:src/leetcode/0205-isomorphic-strings/0205-isomorphic-strings-2.py[py]
+|Easy
+|-
+
 |0208
 |link:https://leetcode.com/problems/implement-trie-prefix-tree/[Implement Trie (Prefix Tree)]
 |link:src/leetcode/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp[cpp]
@@ -146,6 +154,12 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |link:src/leetcode/0318-maximum-product-of-word-lengths/0318-maximum-product-of-word-lengths-hash.cpp[cpp]
 |Medium
 |link:https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/1233648/Short-and-Easy-Solution-w-Explanation-or-C%2B%2B-using-Bitset-and-Bit-masking-or-Beats-100[text]
+
+|0392
+|link:https://leetcode.com/problems/is-subsequence/[Is Subsequence]
+|link:src/leetcode/0392-is-subsequence/0392-is-subsequence.py[py]
+|Easy
+|-
 
 |0474
 |link:https://leetcode.com/problems/ones-and-zeroes/[Ones and Zeroes]
