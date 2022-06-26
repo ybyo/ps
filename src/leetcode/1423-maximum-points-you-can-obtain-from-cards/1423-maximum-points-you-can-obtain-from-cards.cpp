@@ -6,24 +6,14 @@ using namespace std;
 class Solution {
 public:
     int maxScore(vector<int> &cardPoints, int k) {
-        if (cardPoints.size() == k) {
-            return accumulate(cardPoints.begin(), cardPoints.end(), 0);
-        }
-        vector<int> window;
         int sub_sum = 0, ans;
-        for (int i = cardPoints.size() - k; i < cardPoints.size(); ++i) {
-            window.emplace_back(cardPoints[i]);
-        }
-        for (int i = 0; i < k; ++i) {
-            window.emplace_back(cardPoints[i]);
-        }
-        for (int i = 0; i < k; ++i) {
-            sub_sum += window[i];
+        int n = cardPoints.size();
+        for (int i = 0; i < k; i++) {
+            sub_sum += cardPoints[i];
         }
         ans = sub_sum;
-        for (int i = k; i < window.size(); ++i) {
-            sub_sum -= window[i - k];
-            sub_sum += window[i];
+        for (int i = 0; i < k; i++) {
+            sub_sum += cardPoints[n - i - 1] - cardPoints[k - i - 1];
             ans = max(ans, sub_sum);
         }
         return ans;
