@@ -113,7 +113,6 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |-
 
-
 |0205
 |link:https://leetcode.com/problems/isomorphic-strings/[Isomorphic Strings]
 |link:src/leetcode/0205-isomorphic-strings/0205-isomorphic-strings-1.py[py],
@@ -140,7 +139,6 @@ link:src/leetcode/0206-reverse-linked-list/0206-reverse-linked-list-2.py[py]
 link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array-2.cpp[cpp]
 |Medium
 |-
-
 
 //- TODO: add xor approach
 |0268
