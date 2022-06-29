@@ -166,6 +166,13 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |Easy
 |-
 
+//- TODO: add Segment Tree approach
+|0406
+|link:https://leetcode.com/problems/queue-reconstruction-by-height/[Queue Reconstruction by Height]
+|link:src/leetcode/0406-queue-reconstruction-by-height/0406-queue-reconstruction-by-height.cpp[cpp]
+|Medium
+|-
+
 |0474
 |link:https://leetcode.com/problems/ones-and-zeroes/[Ones and Zeroes]
 |link:src/leetcode/0474-ones-and-zeroes/0474-ones-and-zeroes.cpp[cpp]
@@ -289,6 +296,12 @@ link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-2.cp
 |link:src/leetcode/1642-furthest-building-you-can-reach/1642-furthest-building-you-can-reach.cpp[cpp]
 |Medium
 |-
+
+|1647
+|link:https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/[Minimum Deletions to Make Character Frequencies Unique]
+|link:src/leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/discuss/2207106/C%2B%2B-oror-Easy-Solution-oror-Full-Explanation-oror-Least-Space[text]
 
 |1658
 |link:https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/[Minimum Operations to Reduce X to Zero]
