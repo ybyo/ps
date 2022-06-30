@@ -101,6 +101,12 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |-
 
+|0142
+|link:https://leetcode.com/problems/linked-list-cycle-ii/[Linked List Cycle II]
+|link:src/leetcode/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py[py]
+|Medium
+|-
+
 |0160
 |link:https://leetcode.com/problems/intersection-of-two-linked-lists/[Intersection of Two Linked Lists]
 |link:src/leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists-1.cpp[cpp], link:src/leetcode/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists-2.cpp[cpp]
@@ -173,6 +179,13 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |Medium
 |-
 
+|0462
+|link:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/[Minimum Moves to Equal Array Elements II]
+|link:src/leetcode/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii-1.cpp[cpp],
+link:src/leetcode/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii-1.cpp[cpp]
+|Medium
+|-
+
 |0474
 |link:https://leetcode.com/problems/ones-and-zeroes/[Ones and Zeroes]
 |link:src/leetcode/0474-ones-and-zeroes/0474-ones-and-zeroes.cpp[cpp]
@@ -228,6 +241,12 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 |0867
 |link:https://leetcode.com/problems/transpose-matrix/[Transpose Matrix]
 |link:src/leetcode/0867-transpose-matrix/0867-transpose-matrix.cpp[cpp]
+|Easy
+|-
+
+|0876
+|link:https://leetcode.com/problems/middle-of-the-linked-list/[Middle of the Linked List]
+|link:src/leetcode/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.py[py]
 |Easy
 |-
 
