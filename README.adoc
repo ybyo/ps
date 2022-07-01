@@ -341,6 +341,12 @@ link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-2.cpp[cp
 |Medium
 |-
 
+|1710
+|link:https://leetcode.com/problems/maximum-units-on-a-truck/[Maximum Units on a Truck]
+|link:src/leetcode/1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.cpp[cpp]
+|Easy
+|-
+
 |1941
 |link:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/[Check if All Characters Have Equal Number of Occurrences]
 |link:src/leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.cpp[cpp]
