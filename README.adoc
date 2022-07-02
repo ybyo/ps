@@ -301,6 +301,11 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |Medium
 |-
 
+|1465
+|link:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/[Check If a String Contains All Binary Codes of Size K]
+|Medium
+|-
+
 |1480
 |link:https://leetcode.com/problems/running-sum-of-1d-array/[Running Sum of 1d Array]
 |link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-1.cpp[cpp],
