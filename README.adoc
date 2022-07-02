@@ -251,7 +251,7 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 |-
 
 |0968
-|link:https://leetcode.com/problems/binary-tree-cameras/[968. Binary Tree Cameras]
+|link:https://leetcode.com/problems/binary-tree-cameras/[Binary Tree Cameras]
 |link:src/leetcode/0968-binary-tree-cameras/0968-binary-tree-cameras.cpp[cpp]
 |Hard
 |-
@@ -296,13 +296,14 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 
 |1461
 |link:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/[Check If a String Contains All Binary Codes of Size K]
-|link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-set.cpp[cpp],
-link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-hash.cpp[cpp]
+|link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-2.cpp[cpp],
+link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k-1.cpp[cpp]
 |Medium
 |-
 
 |1465
 |link:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/[Check If a String Contains All Binary Codes of Size K]
+|link:src/leetcode/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.cpp[cpp]
 |Medium
 |-
 
@@ -311,7 +312,7 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-1.cpp[cpp],
 link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-2.cpp[cpp],
 link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-1.cpp[py],
-link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-2.cpp[py],
+link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-2.cpp[py]
 |Easy
 |-
 
