@@ -101,6 +101,12 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |-
 
+|0121
+|link:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/[Best Time to Buy and Sell Stock]
+|link:src/leetcode/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp[cpp]
+|Easy
+|-
+
 |0142
 |link:https://leetcode.com/problems/linked-list-cycle-ii/[Linked List Cycle II]
 |link:src/leetcode/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py[py]
@@ -184,6 +190,13 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |link:src/leetcode/0406-queue-reconstruction-by-height/0406-queue-reconstruction-by-height.cpp[cpp]
 |Medium
 |-
+
+|0409
+|link:https://leetcode.com/problems/longest-palindrome/[Longest Palindrome]
+|link:src/leetcode/0409-longest-palindrome.cpp/0409-longest-palindrome.cpp[cpp]
+|Easy
+|link:https://leetcode.com/problems/longest-palindrome/discuss/89587/What-are-the-odds-(Python-and-C%2B%2B)[text]
+
 
 |0462
 |link:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/[Minimum Moves to Equal Array Elements II]
