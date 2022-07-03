@@ -166,6 +166,12 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |Medium
 |link:https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/1233648/Short-and-Easy-Solution-w-Explanation-or-C%2B%2B-using-Bitset-and-Bit-masking-or-Beats-100[text]
 
+|0376
+|link:https://leetcode.com/problems/wiggle-subsequence/[Wiggle Subsequence]
+|link:src/leetcode/0376-wiggle-subsequence/0376-wiggle-subsequence.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/wiggle-subsequence/discuss/2229495/C%2B%2B-O-(-N-)-oror-EXPLAINED-oror[text]
+
 |0392
 |link:https://leetcode.com/problems/is-subsequence/[Is Subsequence]
 |link:src/leetcode/0392-is-subsequence/0392-is-subsequence.py[py]
