@@ -107,6 +107,12 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Easy
 |-
 
+|0135
+|link:https://leetcode.com/problems/candy/[Candy]
+|link:src/leetcode/0135-candy/0135-candy.cpp[cpp]
+|Hard
+|-
+
 |0142
 |link:https://leetcode.com/problems/linked-list-cycle-ii/[Linked List Cycle II]
 |link:src/leetcode/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py[py]
