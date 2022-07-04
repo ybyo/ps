@@ -108,7 +108,6 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |-
 
 //- TODO: add single pass approach with constant space
-
 |0135
 |link:https://leetcode.com/problems/candy/[Candy]
 |link:src/leetcode/0135-candy/0135-candy.cpp[cpp]
