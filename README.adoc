@@ -107,6 +107,13 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Easy
 |-
 
+//- TODO: add Hashset approach
+|0128
+|link:https://leetcode.com/problems/longest-consecutive-sequence/[Longest Consecutive Sequence]
+|link:src/leetcode/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/longest-consecutive-sequence/discuss/1254638/Short-and-Easy-Solution-w-Explanation-or-O(N)-Solution-with-comments-using-hashset[text]
+
 //- TODO: add single pass approach with constant space
 |0135
 |link:https://leetcode.com/problems/candy/[Candy]
