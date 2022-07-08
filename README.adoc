@@ -346,6 +346,13 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |Medium
 |-
 
+//- TODO: should solve yourself
+|1473
+|link:https://leetcode.com/problems/paint-house-iii/[Paint House III]
+|link:src/leetcode/1473-paint-house-iii/1473-paint-house-iii.cpp[cpp]
+|Hard+
+|link:https://leetcode.com/problems/paint-house-iii/solution/[leetcode]
+
 |1480
 |link:https://leetcode.com/problems/running-sum-of-1d-array/[Running Sum of 1d Array]
 |link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-1.cpp[cpp],
