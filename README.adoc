@@ -287,6 +287,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Medium
 |-
 
+|0704
+|link:https://leetcode.com/problems/binary-search/[Binary Search]
+|link:src/leetcode/0704-binary-search/0704-binary-search.cpp[cpp]
+|Easy
+|-
+
 |0724
 |link:https://leetcode.com/problems/find-pivot-index/[Find Pivot Index]
 |link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-1.py[py],
