@@ -262,6 +262,12 @@ link:https://leetcode.com/problems/ones-and-zeroes/discuss/1138589/Short-and-Eas
 |Medium
 |link:https://leetcode.com/problems/delete-operation-for-two-strings/solution/[leetcode]
 
+|0589
+|link:https://leetcode.com/problems/n-ary-tree-preorder-traversal/[N-ary Tree Preorder Traversal]
+|link:src/leetcode/0589-n-ary-tree-preorder-traversal/0589-n-ary-tree-preorder-traversal.cpp[cpp]
+|Easy
+|-
+
 |0630
 |link:https://leetcode.com/problems/course-schedule-iii/[Course Schedule III]
 |link:src/leetcode/0630-course-schedule-iii/0630-course-schedule-iii.cpp[cpp]
