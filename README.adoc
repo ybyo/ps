@@ -183,6 +183,12 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |Medium
 |-
 
+|0235
+|link:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/[Lowest Common Ancestor of a Binary Search Tree]
+|link:src/leetcode/0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp[cpp]
+|Easy
+|link:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/1347857/C%2B%2BJavaPython-Iterate-in-BST-Picture-explain-Time%3A-O(H)-Space%3A-O(1)[text]
+
 //- TODO: add xor approach
 |0268
 |link:https://leetcode.com/problems/missing-number/[Missing Number]
