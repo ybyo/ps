@@ -196,6 +196,12 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |Easy
 |link:https://florian.github.io/xor-trick/[text]
 
+|0278
+|link:https://leetcode.com/problems/first-bad-version/[First Bad Version]
+|link:src/leetcode/0278-first-bad-version/0278-first-bad-version.cpp[cpp]
+|Easy
+|-
+
 |0304
 |link:https://leetcode.com/problems/range-sum-query-2d-immutable/[Range Sum Query 2D - Immutable]
 |link:src/leetcode/0304-range-sum-query-2d-immutable/0304-range-sum-query-2d-immutable.cpp[cpp]
