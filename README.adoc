@@ -434,6 +434,12 @@ link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-2.cpp[cp
 |Medium
 |-
 
+|1696
+|link:https://leetcode.com/problems/jump-game-vi/[Jump Game VI]
+|link:src/leetcode/1696-jump-game-vi/1696-jump-game-vi.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/jump-game-vi/discuss/1260736/Jump-Game-VI-or-Optimizations-from-Brute-Force-to-Dynamic-Programming-w-Explanation[txt]
+
 |1710
 |link:https://leetcode.com/problems/maximum-units-on-a-truck/[Maximum Units on a Truck]
 |link:src/leetcode/1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.cpp[cpp]
