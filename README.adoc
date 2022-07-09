@@ -300,6 +300,12 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 |Easy
 |link:https://leetcode.com/problems/find-pivot-index/solution/[leetcode]
 
+|0733
+|link:https://leetcode.com/problems/flood-fill/[Flood Fill]
+|link:src/leetcode/0733-flood-fill/0733-flood-fill.cpp[cpp]
+|Easy
+|-
+
 |0745
 |link:https://leetcode.com/problems/prefix-and-suffix-search/[Prefix and Suffix Search]
 |link:src/leetcode/0745-prefix-and-suffix-search/0745-prefix-and-suffix-search.cpp[cpp]
