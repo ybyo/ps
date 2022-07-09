@@ -99,6 +99,19 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Easy
 |-
 
+|0098
+|link:https://leetcode.com/problems/validate-binary-search-tree/[Validate Binary Search Tree]
+|link:src/leetcode/0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp[cpp]
+|Medium
+|-
+
+
+|0102
+|link:https://leetcode.com/problems/binary-tree-level-order-traversal/[Binary Tree Level Order Traversal]
+|link:src/leetcode/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp[cpp]
+|Medium
+|-
+
 |0120
 |link:https://leetcode.com/problems/triangle/[Triangle]
 |link:src/leetcode/0120-triangle/0120-triangle.cpp[cpp]
