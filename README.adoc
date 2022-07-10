@@ -313,6 +313,12 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 |Hard
 |-
 
+|0746
+|link:https://leetcode.com/problems/min-cost-climbing-stairs/[746. Min Cost Climbing Stairs]
+|link:src/leetcode/0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.cpp[cpp]
+|Easy
+|-
+
 |0820
 |link:https://leetcode.com/problems/short-encoding-of-words/[Short Encoding of Words]
 |link:src/leetcode/0820-short-encoding-of-words/0820-short-encoding-of-words.cpp[cpp]
