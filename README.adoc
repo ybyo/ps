@@ -246,11 +246,16 @@ link:src/leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-
 |Easy
 |link:https://leetcode.com/problems/longest-palindrome/discuss/89587/What-are-the-odds-(Python-and-C%2B%2B)[text]
 
-
 |0462
 |link:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/[Minimum Moves to Equal Array Elements II]
 |link:src/leetcode/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii-1.cpp[cpp],
 link:src/leetcode/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii-1.cpp[cpp]
+|Medium
+|-
+
+|0473
+|link:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/[Minimum Moves to Equal Array Elements II]
+|link:src/leetcode/0473-matchsticks-to-square/0473-matchsticks-to-square.cpp[cpp]
 |Medium
 |-
 
