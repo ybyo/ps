@@ -107,12 +107,17 @@ link:src/leetcode/0009-palindrome-number/0009-palindrome-number-2.cpp[cpp]
 |Medium
 |-
 
-
 |0102
 |link:https://leetcode.com/problems/binary-tree-level-order-traversal/[Binary Tree Level Order Traversal]
 |link:src/leetcode/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp[cpp]
 |Medium
 |-
+
+|0105
+|link:https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/[Construct Binary Tree from Preorder and Inorder Traversal]
+|link:src/leetcode/0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp[cpp]
+|Medium
+|link:https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solution/[leetcode]
 
 |0120
 |link:https://leetcode.com/problems/triangle/[Triangle]
