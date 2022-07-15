@@ -305,6 +305,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Medium
 |-
 
+|0695
+|link:https://leetcode.com/problems/max-area-of-island/[Max Area of Island]
+|link:src/leetcode/0695-max-area-of-island/0695-max-area-of-island.cpp[cpp]
+|Medium
+|-
+
 |0704
 |link:https://leetcode.com/problems/binary-search/[Binary Search]
 |link:src/leetcode/0704-binary-search/0704-binary-search.cpp[cpp]
