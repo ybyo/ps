@@ -273,6 +273,13 @@ link:src/leetcode/0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-mov
 |link:https://leetcode.com/problems/ones-and-zeroes/discuss/2065992/C%2B%2Bor-Detailed-Explanation-w-Recursion-greater-Memoziation-or-Examples-and-well-Commentedor[text],
 link:https://leetcode.com/problems/ones-and-zeroes/discuss/1138589/Short-and-Easy-w-Explanation-or-O(L*m*n)-DP-solution-(6-lines)-similar-to-knapsack[text]
 
+//- TODO: add DP approach
+|0576
+|link:https://leetcode.com/problems/out-of-boundary-paths/[Out of Boundary Paths]
+|link:src/leetcode/0576-out-of-boundary-paths/0576-out-of-boundary-paths.cpp[cpp]
+|Medium
+|-
+
 //- TODO: add DP without LCS approach
 |0583
 |link:https://leetcode.com/problems/delete-operation-for-two-strings/[Delete Operation for Two Strings]
