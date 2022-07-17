@@ -1,18 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
-struct TrieNode {
-    bool end;
-    TrieNode *children[26];
-
-    TrieNode() {
-        end = false;
-        memset(children, NULL, sizeof(children));
-    }
-};
-
 class Trie {
 public:
     Trie() {
@@ -76,4 +61,3 @@ private:
  * bool param_2 = obj->search(word);
  * bool param_3 = obj->startsWith(prefix);
  */
-//leetcode submit region end(Prohibit modification and deletion)

@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 #define REP(i, k, n) for (int i = k; i < n; i++)
 #define REPR(i, k, n) for (int i = k; i > n; i--)
@@ -19,4 +14,3 @@ public:
         return {};
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

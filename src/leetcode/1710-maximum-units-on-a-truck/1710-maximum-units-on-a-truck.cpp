@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     static bool compare(vector<int> &a, vector<int> &b) {
@@ -23,4 +18,3 @@ public:
         return ans;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

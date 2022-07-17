@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     int solve(vector<bool> &col, vector<bool> &left_diag, vector<bool> &right_diag, int r) {
@@ -26,4 +21,3 @@ public:
         return solve(col, left_diag, right_diag, 0);
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     vector<vector<int>> dir = {{1,  0}, {0,  1}, {-1, 0}, {0,  -1}};
@@ -24,4 +19,3 @@ public:
         return recursion(m, n, maxMove, startRow, startColumn);
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

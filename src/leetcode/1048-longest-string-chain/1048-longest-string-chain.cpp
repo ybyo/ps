@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     static bool compare(const string &s1, const string &s2) {
@@ -24,4 +19,3 @@ public:
         return ans;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

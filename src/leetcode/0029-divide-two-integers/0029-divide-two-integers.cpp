@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     int divide(int dividend, int divisor) {
@@ -24,4 +19,3 @@ public:
         return ((dividend > 0) ^ (divisor > 0)) ? -ans : ans;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

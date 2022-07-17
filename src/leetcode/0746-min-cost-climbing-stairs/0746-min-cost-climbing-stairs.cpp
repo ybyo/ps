@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     int minCostClimbingStairs(vector<int> &cost) {
@@ -15,4 +10,3 @@ public:
         return min(dp[0], dp[1]);
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

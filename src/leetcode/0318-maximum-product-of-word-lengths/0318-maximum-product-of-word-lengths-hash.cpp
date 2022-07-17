@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     bool checkShareCommon(bitset<26> &a, bitset<26> &b) {
@@ -29,4 +24,3 @@ public:
         return ans;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

@@ -1,20 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
-};
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     int ans = 0;
@@ -33,4 +16,3 @@ public:
         return (dfs(root) < 1 ? 1 : 0) + ans;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)
