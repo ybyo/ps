@@ -293,6 +293,12 @@ link:https://leetcode.com/problems/ones-and-zeroes/discuss/1138589/Short-and-Eas
 |Easy
 |-
 
+|0629
+|link:https://leetcode.com/problems/k-inverse-pairs-array/[K Inverse Pairs Array]
+|link:src/leetcode/0629-k-inverse-pairs-array/0629-k-inverse-pairs-array.cpp[cpp]
+|Hard
+|-
+
 |0630
 |link:https://leetcode.com/problems/course-schedule-iii/[Course Schedule III]
 |link:src/leetcode/0630-course-schedule-iii/0630-course-schedule-iii.cpp[cpp]
