@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     int expand(string s, int l, int r) {
@@ -29,4 +24,3 @@ public:
         return s.substr(l, r - l + 1);
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

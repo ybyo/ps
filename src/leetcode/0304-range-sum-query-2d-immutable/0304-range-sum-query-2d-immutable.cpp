@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class NumMatrix {
     vector<vector<int>> grid;
 public:
@@ -30,4 +25,3 @@ public:
  * NumMatrix* obj = new NumMatrix(matrix);
  * int param_1 = obj->sumRegion(row1,col1,row2,col2);
  */
-//leetcode submit region end(Prohibit modification and deletion)

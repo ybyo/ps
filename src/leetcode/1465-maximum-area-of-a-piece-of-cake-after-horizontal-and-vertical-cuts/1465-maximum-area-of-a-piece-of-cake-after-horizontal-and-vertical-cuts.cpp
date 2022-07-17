@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     long long m = pow(10, 9) + 7;
@@ -26,4 +21,3 @@ public:
         return a % m * b % m;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

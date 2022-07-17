@@ -1,15 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-struct ListNode {
-    int val;
-    ListNode *next;
-
-    ListNode(int x) : val(x), next(NULL) {}
-};
-
-//leetcode submit region begin(Prohibit modification and deletion)
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -53,4 +41,3 @@ public:
         return nullptr;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

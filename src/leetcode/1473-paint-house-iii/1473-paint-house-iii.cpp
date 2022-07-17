@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     const int MAX_COST = 1e6 + 1;
@@ -35,4 +30,3 @@ public:
         return minCost == MAX_COST ? -1 : minCost;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

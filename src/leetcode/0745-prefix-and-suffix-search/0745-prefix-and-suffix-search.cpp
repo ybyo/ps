@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Trie {
     Trie *ch[27];
     int weight;
@@ -64,4 +59,3 @@ public:
  * WordFilter* obj = new WordFilter(words);
  * int param_1 = obj->f(prefix,suffix);
  */
-//leetcode submit region end(Prohibit modification and deletion)

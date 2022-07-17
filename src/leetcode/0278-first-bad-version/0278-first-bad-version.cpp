@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
 
@@ -19,4 +14,3 @@ public:
         return ldx;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

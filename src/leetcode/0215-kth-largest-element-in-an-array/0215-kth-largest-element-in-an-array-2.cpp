@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
@@ -19,4 +14,3 @@ public:
         return pq.top();
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

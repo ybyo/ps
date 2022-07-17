@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
@@ -25,4 +20,3 @@ public:
         return max_len;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

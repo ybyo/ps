@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -38,4 +33,3 @@ public:
         return ans;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

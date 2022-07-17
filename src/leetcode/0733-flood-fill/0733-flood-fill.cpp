@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     static bool check(int y, int x, int m, int n) {
@@ -35,4 +30,3 @@ public:
         return image;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

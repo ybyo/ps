@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class TrieNode {
 public:
     unordered_map<char, TrieNode *> next;
@@ -31,4 +26,3 @@ public:
         return ans;
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)

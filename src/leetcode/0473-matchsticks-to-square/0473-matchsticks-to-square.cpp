@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
-//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
     static bool recursion(vector<int> &matchsticks, int l, int avg, array<int, 4> &matches) {
@@ -30,4 +25,3 @@ public:
         return recursion(matchsticks, 0, avg, matches);
     }
 };
-//leetcode submit region end(Prohibit modification and deletion)
