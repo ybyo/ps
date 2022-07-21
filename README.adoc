@@ -393,6 +393,12 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 |Medium
 |-
 
+|1071
+|link:https://leetcode.com/problems/greatest-common-divisor-of-strings/[Greatest Common Divisor of Strings]
+|link:src/leetcode/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.py[py]
+|Eay
+|-
+
 //- TODO: add Trie + DFS approach
 |1268
 |link:https://leetcode.com/problems/search-suggestions-system/submissions/[Search Suggestions System]
