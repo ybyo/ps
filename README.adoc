@@ -336,6 +336,12 @@ link:https://leetcode.com/problems/palindromic-substrings/discuss/1276364/C%2B%2
 |Medium
 |-
 
+|0680
+|link:https://leetcode.com/problems/valid-palindrome-ii/[Valid Palindrome II]
+|link:src/leetcode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.py[py]
+|Easy
+|-
+
 |0695
 |link:https://leetcode.com/problems/max-area-of-island/[Max Area of Island]
 |link:src/leetcode/0695-max-area-of-island/0695-max-area-of-island.cpp[cpp]
