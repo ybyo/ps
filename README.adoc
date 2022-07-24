@@ -1,6 +1,6 @@
 = Problem Solving
 
-List of algorithm problems with explanation links. Most of the answers are written in C++. The difficulty level was written as described in the code challenge platform. However, you can see that some problems are marked with a '&#43;' after the difficulty. This means that the problem exceeds the described difficulty level(personal opinion).
+List of algorithm problems with explanation links. Most of the answers are written in C++, Python3.
 
 == Leetcode
 
@@ -465,7 +465,7 @@ link:src/leetcode/1461-check-if-a-string-contains-all-binary-codes-of-size-k/146
 |1473
 |link:https://leetcode.com/problems/paint-house-iii/[Paint House III]
 |link:src/leetcode/1473-paint-house-iii/1473-paint-house-iii.cpp[cpp]
-|Hard+
+|Hard
 |link:https://leetcode.com/problems/paint-house-iii/solution/[leetcode]
 
 |1480
