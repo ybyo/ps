@@ -404,6 +404,12 @@ link:src/leetcode/0724-find-pivot-index/0724-find-pivot-index-2.py[py]
 |Hard
 |-
 
+|1005
+|link:https://leetcode.com/problems/binary-tree-cameras/[Maximize Sum Of Array After K Negations]
+|link:src/leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py[py]
+|Easy
+|-
+
 //- TODO: add DFS approach
 |1048
 |link:https://leetcode.com/problems/longest-string-chain/[Longest String Chain]
@@ -477,6 +483,12 @@ link:src/leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array-2.cp
 |Easy
 |-
 
+|1544
+|link:https://leetcode.com/problems/make-the-string-great/[Make The String Great]
+|link:src/leetcode/1544-make-the-string-great/1544-make-the-string-great.py[py]
+|Easy
+|-
+
 |1642
 |link:https://leetcode.com/problems/furthest-building-you-can-reach/[Furthest Building You Can Reach]
 |link:src/leetcode/1642-furthest-building-you-can-reach/1642-furthest-building-you-can-reach.cpp[cpp]
@@ -520,9 +532,27 @@ link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-2.cpp[cp
 |Easy
 |-
 
+|1827
+|link:https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/[Minimum Operations to Make the Array Increasing]
+|link:src/leetcode/1827-minimum-operations-to-make-the-array-increasing/1827-minimum-operations-to-make-the-array-increasing.py[py]
+|Easy
+|-
+
 |1941
 |link:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/[Check if All Characters Have Equal Number of Occurrences]
 |link:src/leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.cpp[cpp]
+|Easy
+|-
+
+|2259
+|link:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/[Remove Digit From Number to Maximize Result]
+|link:src/leetcode/2259-remove-digit-from-number-to-maximize-result/2259-remove-digit-from-number-to-maximize-result.py[py]
+|Easy
+|-
+
+|2335
+|link:https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/[Minimum Amount of Time to Fill Cups]
+|link:src/leetcode/2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.py[py]
 |Easy
 |-
 |===
