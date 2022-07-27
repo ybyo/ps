@@ -1,7 +1,7 @@
 class Solution:
     def maximum69Number (self, num: int) -> int:
-        for i, n in enumerate(str(num)):
-            if n == '6':
-                return num + 3 * 10 ** (len(str(num)) - i - 1)
+        st = str(num)
+        if '6' in st:
+            idx = st.index('6')
+            return int(st[:idx]+'9'+st[idx+1:])
         return num
-                
