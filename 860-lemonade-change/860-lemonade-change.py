@@ -15,6 +15,7 @@ class Solution:
                 else:
                     money[0] -= 3
                 money[2] += 1
-            if money[0] <= -1 or money[1] <= -1:
+            for m in money:
+                if m <= -1:
                     return False
         return True
