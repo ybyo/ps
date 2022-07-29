@@ -9,5 +9,5 @@ class Solution:
             else:
                 ans.append(rt)
                 rt -= 1
-        return ans + [lt]
+        return ans + [rt]
         
