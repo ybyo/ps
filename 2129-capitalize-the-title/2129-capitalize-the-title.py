@@ -8,5 +8,5 @@ class Solution:
         for i, s in enumerate(seg):
             if len(s) < 3:
                 seg[i] = s.lower()
-        return " ".join(seg)
+        return ' '.join(seg)
                 
