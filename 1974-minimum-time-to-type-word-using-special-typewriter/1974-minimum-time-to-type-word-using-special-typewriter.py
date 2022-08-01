@@ -1,12 +1,9 @@
 class Solution:
     def minTimeToType(self, word: str) -> int:
+        ans = len(word)
         curr = 'a'
-        ans = 0
-        for x in word:
-            gap = abs(ord(curr) - ord(x))
-            if gap <= 13:
-                ans += gap
-            else:
-                ans += (26 - gap)
-            curr = x
-        return ans + len(word)
+        for c in word:
+            gap = abs(ord(curr) - ord(c))
+            ans += min(gap, 26 - gap)
+            curr = c
+        return ans
