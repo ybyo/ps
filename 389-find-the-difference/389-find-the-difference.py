@@ -1,8 +1,8 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        a = b = 0
-        for c in s:
-            a += ord(c)
-        for c in t:
-            b += ord(c)
-        return chr(b-a)
+        smap = Counter(s)
+        tmap = Counter(t)
+        for c in tmap:
+            if c not in smap or tmap[c] == smap[c] + 1:
+                return c
+        return ''
