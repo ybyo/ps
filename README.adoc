@@ -544,6 +544,42 @@ link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-2.cpp[cp
 |Easy
 |-
 
+|2129
+|link:https://leetcode.com/problems/capitalize-the-title/[Capitalize the Title]
+|link:src/leetcode/2129-capitalize-the-title/2129-capitalize-the-title.py[py]
+|Easy
+|-
+
+|2144
+|link:https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/[Minimum Cost of Buying Candies With Discount]
+|link:src/leetcode/2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.py[py]
+|Easy
+|-
+
+|2160
+|link:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/[Minimum Sum of Four Digit Number After Splitting Digits]
+|link:src/leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py[py]
+|Easy
+|-
+
+|2194
+|link:https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/[Cells in a Range on an Excel Sheet]
+|link:src/leetcode/2194-cells-in-a-range-on-an-excel-sheet/2194-cells-in-a-range-on-an-excel-sheet.py[py]
+|Easy
+|-
+
+|2224
+|link:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/[Minimum Number of Operations to Convert Time]
+|link:src/leetcode/2224-minimum-number-of-operations-to-convert-time/2224-minimum-number-of-operations-to-convert-time.py[py]
+|Easy
+|-
+
+|2311
+|link:https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/[ Longest Binary Subsequence Less Than or Equal to K]
+|link:src/leetcode/2311-longest-binary-subsequence-less-than-or-equal-to-k/2311-longest-binary-subsequence-less-than-or-equal-to-k.py[py]
+|Medium
+|-
+
 |2259
 |link:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/[Remove Digit From Number to Maximize Result]
 |link:src/leetcode/2259-remove-digit-from-number-to-maximize-result/2259-remove-digit-from-number-to-maximize-result.py[py]
@@ -554,5 +590,17 @@ link:src/leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value-2.cpp[cp
 |link:https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/[Minimum Amount of Time to Fill Cups]
 |link:src/leetcode/2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.py[py]
 |Easy
+|-
+
+|2351
+|link:https://leetcode.com/problems/first-letter-to-appear-twice/[First Letter to Appear Twice]
+|link:src/leetcode/2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.py[py]
+|Easy
+|-
+
+|2358
+|link:https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/[Maximum Number of Groups Entering a Competition]
+|link:src/leetcode/2358-maximum-number-of-groups-entering-a-competition/2358-maximum-number-of-groups-entering-a-competition.py[py]
+|Medium
 |-
 |===
