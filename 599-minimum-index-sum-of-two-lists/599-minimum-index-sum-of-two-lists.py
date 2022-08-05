@@ -1,8 +1,7 @@
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
         ans = []
-        min_idx = 10**4
-        print(min_idx)
+        min_idx = inf
         for menu in set(list1).intersection(set(list2)):
             idx_sum = list1.index(menu) + list2.index(menu)
             if min_idx > idx_sum:
