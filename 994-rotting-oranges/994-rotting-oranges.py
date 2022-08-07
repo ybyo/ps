@@ -14,8 +14,8 @@ class Solution:
             for _ in range(len(dq)):
                 y, x = dq.popleft()
                 for dy, dx in dirs:
-                    if 0 <= y + dy < m and 0 <= x + dx < n and grid[y + dy][x + dx] == 1:
+                    if 0 <= y + dy < m and 0 <= x + dx < n and grid[y+dy][x+dx] == 1:
                         fresh -= 1
-                        grid[y + dy][x + dx] = 2
-                        dq.append((y + dy, x + dx))
+                        grid[y+dy][x+dx] = 2
+                        dq.append((y+dy, x+dx))
         return time_passed if fresh == 0 else -1
