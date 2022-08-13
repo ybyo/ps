@@ -1,12 +1,8 @@
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
-        tmp = []
-        ans = ''
+        tmp = [''] * len(s)
         
-        for p in zip(indices, list(s)):
-            tmp.append(p)
-        tmp.sort()
-        for c in tmp:
-            ans += c[1]
+        for i, c in zip(indices, s):
+            tmp[i] = c
 
-        return ans
+        return ''.join(tmp)
