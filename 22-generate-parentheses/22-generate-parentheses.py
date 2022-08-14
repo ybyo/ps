@@ -1,24 +1,14 @@
 class Solution:
+    @cache
     def generateParenthesis(self, n: int) -> List[str]:
+        if n == 0:
+            return ['']
+        
         ans = []
-        p = ''
-        lt = rt = 0
         
-        def solve(p, lt, rt):
-            if len(p) == 2 * n:
-                ans.append(p)
-                return 
-            if lt < n:
-                p += '('
-                solve(p, lt + 1, rt)
-                p = p[:-1]
-            if rt < lt:
-                p += ')'
-                solve(p, lt, rt + 1)
-                p = p[:-1]
+        for i in range(n):
+            for x in self.generateParenthesis(n - 1 - i): 
+                for y in self.generateParenthesis(i): 
+                    ans.append(f"({x}){y}")
 
-        solve(p, lt, rt)
-        
-        return ans
-        
-            
+        return ans 
