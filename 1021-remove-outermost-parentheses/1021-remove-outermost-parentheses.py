@@ -3,6 +3,7 @@ class Solution:
         lt = rt = ldx = rdx = 0
         ss = []
         ans = ''
+        
         for i, c in enumerate(s):
             if c == '(':
                 lt += 1
@@ -16,4 +17,5 @@ class Solution:
         for i in range(len(ss)):
             seg = ss[i][1:-1]
             ans += seg
+            
         return ans
