@@ -1,11 +1,4 @@
-* return: total move count(int)
-* special condition
-1. [0][0] == [n-1][n-1] == 0 or return -1
-* category
-1. bfs
-* variable
-ans = 0, 8 direction dir, queue
-* algorithm
-1. check [0][0], [n-1][n-1] == 0
-2. check 8direction, but check first right below conrner
-2.1 if okay, move corner, ans +=
+* list 대신 deque를 사용하는 것이 일반적
+* q = deque([0, 0, 1)])
+* deque를 거릿값 함께 가져가는 데 활용
+* q.popleft()
