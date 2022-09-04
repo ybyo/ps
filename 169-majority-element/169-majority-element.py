@@ -3,7 +3,4 @@ class Solution:
         """
         Topics: Array, Hash Table, Divide and Coquer, Sorting, Counting
         """     
-        nums.sort()
-        
-        return nums[len(nums) // 2]
-        
+        return Counter(nums).most_common(1)[0][0]
