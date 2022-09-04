@@ -3,13 +3,24 @@ class Solution:
         """
         Category: Hash Table, String, Dynamic Programming, Trie, Memoization
         """
-        dp = [0] * (len(s) + 1)
-        dp[0] = 1
+        root = Trie()
+        for word in wordDict:
+            root.addWord(word)
         
-        for i in range(1, len(s) + 1):
-            for j in range(i):
-                if dp[j] and s[j:i] in wordDict:
-                    dp[i] = 1
-                    break
+        tries = set([root])
+        for c in s:
+            tries = {trie.nodes[c] for trie in tries if c in trie.nodes}
+            if any(trie.isWord for trie in tries):
+                tries.add(root)
+        return any(trie.isWord for trie in tries)
+    
+class Trie:
+    def __init__(self):
+        self.nodes = defaultdict(Trie)
+        self.isWord = False
         
-        return dp[-1]
+    def addWord(self, word):
+        current = self
+        for c in word:
+            current = current.nodes[c]
+        current.isWord = True
