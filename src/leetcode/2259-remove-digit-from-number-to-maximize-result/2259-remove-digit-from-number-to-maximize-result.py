@@ -1,9 +1,13 @@
 class Solution:
     def removeDigit(self, number: str, digit: str) -> str:
-        ans = 0
-        numbers = []
-        for i, num in enumerate(list(number)):
-            if num == digit:
-                numbers.append(number[:i]+number[i+1:])
-        numbers.sort()
-        return numbers[-1]
+        idxs = []
+        ans = -inf
+        for idx, c in enumerate((list(number))):
+            if c == digit:
+                idxs.append(idx)
+        numbers = list(number)
+        for idx in idxs:
+            tmp = number[:idx] + number[idx + 1:]
+            ans = max(ans, int(tmp))
+        
+        return str(ans)
