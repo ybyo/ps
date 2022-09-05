@@ -7,10 +7,18 @@
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         """
-        **Several Approaches**
+        **Several approaches**
+        **Follow up**
         Topics: Tree, DFS, Binary Search Tree, Binary Tree
         """
-        def inorder(r):
-            return inorder(r.left) + [r.val] + inorder(r.right) if r else []
-                
-        return inorder(root)[k - 1]
+        stk = []
+        
+        while True:
+            while root:
+                stk.append(root)
+                root = root.left
+            root = stk.pop()
+            k -= 1
+            if not k:
+                return root.val
+            root = root.right
