@@ -18,7 +18,7 @@ class Solution:
 
         for r, c in product(range(m), range(n)):
             if grid2[r][c] == 1:
-                ans += 1
                 dfs(r, c)
+                ans += 1
 
         return ans
