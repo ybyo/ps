@@ -1,4 +1,4 @@
-"""
+```
 Return: Largest Rectangle
 Category Assumption: Array, DP?
 Real Category: Array, Stack, Monotonic Stack
@@ -24,3 +24,4 @@ comparison: lowest * len(heights), highest(spread)
 ​
 * Monotonic Stack:
 * Example case 1:
+```
