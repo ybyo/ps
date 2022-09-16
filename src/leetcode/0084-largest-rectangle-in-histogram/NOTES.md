@@ -3,7 +3,7 @@ Return: Largest Rectangle
 Category Assumption: Array, DP?
 Real Category: Array, Stack, Monotonic Stack
 ​
-Psuedo Code:
+Pseudo Code:
 * Memo:
 [2]: 2
 [2, 1]: 2
