@@ -6,18 +6,33 @@
 #         self.right = right
 class Solution:
     memo = {0: [], 1: [TreeNode()]}
-
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
+        def deepCopy(node):
+            if not node:
+                return None
+            new_node = TreeNode()
+            new_node.left = deepCopy(node.left)
+            new_node.right = deepCopy(node.right)
+            return new_node
+        
+        if n % 2 == 0:
+            return []
+        if n == 1:
+            return [TreeNode()]
+        
         if n not in Solution.memo:
             ans = []
             for x in range(n):
                 y = n - 1 - x
-                for l in self.allPossibleFBT(x):
-                    for r in self.allPossibleFBT(y):
+                lb = self.allPossibleFBT(x)
+                rb = self.allPossibleFBT(y)
+                for lcnt, l in enumerate(lb, 1):
+                    for rcnt, r in enumerate(rb, 1):
                         node = TreeNode()
-                        node.left = l
-                        node.right = r
+                        node.left = deepCopy(l)
+                        node.right = deepCopy(r)
                         ans.append(node)
             Solution.memo[n] = ans
-
+        
+        
         return Solution.memo[n]
