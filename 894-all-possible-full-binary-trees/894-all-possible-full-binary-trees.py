@@ -29,8 +29,8 @@ class Solution:
                 for lcnt, l in enumerate(lb, 1):
                     for rcnt, r in enumerate(rb, 1):
                         node = TreeNode()
-                        node.left = deepCopy(l)
-                        node.right = deepCopy(r)
+                        node.left = deepCopy(l) if rcnt < len(rb) else l
+                        node.right = deepCopy(r) if lcnt < len(lb) else r
                         ans.append(node)
             Solution.memo[n] = ans
         
