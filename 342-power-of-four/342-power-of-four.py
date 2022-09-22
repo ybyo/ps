@@ -4,6 +4,5 @@ class Solution:
             return False
         if n == 1:
             return True
-        if n % 4 == 0:
-            return self.isPowerOfFour(n >> 2)
-        return False
+        
+        return n % 4 == 0 and self.isPowerOfFour(n >> 2)
