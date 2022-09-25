@@ -11,6 +11,7 @@ class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         max_sum = 10**4 * -1
         curr_sum = 0
+
         for n in nums:
             curr_sum = n + curr_sum
             if max_sum < curr_sum:
